@@ -160,11 +160,6 @@ Ant Design Pro | 开箱即用的中台前端/设计解决方案 | 2.1.0 |  [http
 
 最低部署要求  1C2G x3
 
-### 获取代码
-
-https://github.com/cjbi/weshop
-
-https://gitee.com/cjbi/weshop
 
 ## 许可证
 
